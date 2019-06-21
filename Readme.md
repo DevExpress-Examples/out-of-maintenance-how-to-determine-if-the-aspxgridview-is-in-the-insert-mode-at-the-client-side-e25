@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to determine if the ASPxGridView is in the insert mode at the client side
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e254/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to determine if ASPxGridView is in the new row editing mode on the client side. The <strong>CustomJSProperties</strong> event is used to pass the required information from the server side to the client side.</p>
